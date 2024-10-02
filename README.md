@@ -18,7 +18,7 @@ This application is a prospecting outreach tool that scrapes **Stack Overflow** 
 - **Outreach Message Generation**: Use OpenAI’s GPT-4 model to generate tailored outreach messages to potential prospects based on their posts.
 - **Keyword Management**: Users can add, remove, or update generated keywords.
 - **Horizontal and Vertical Scrollable Table**: Sleek, modern table to display the scraped posts with pagination and scrollable content.
-- **Download CSV**: Option to download contact lists as CSV.
+
 
 ## **Technology Stack**
 - **Frontend**: React with Next.js, TypeScript, Tailwind CSS for styling.
