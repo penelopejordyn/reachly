@@ -5,6 +5,12 @@
       },
       "installCommand": "npm install --legacy-peer-deps",
       "buildCommand": "vercel build"
-    }
+    },
+    "functions": {
+        "src/api/**/*.ts": {
+          "maxDuration": 500
+        }
+      }
+    
   }
   
